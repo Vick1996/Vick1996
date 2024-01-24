@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Girish</h1>
 <h3 align="center">A passionate backend developer.</h3>
 
-- 🌱 I’m currently learning **Spring framework, spring boot**
+- 🌱 I’m currently learning **Kafka/Messaging queues**
 
 - 💬 Ask me about **Web3, Blockchain, Ethereum, Data Structures, Algorithms**
 
