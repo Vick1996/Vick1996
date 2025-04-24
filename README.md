@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Web3, Blockchain, Ethereum, Data Structures, Algorithms**
 
-- 📫 How to reach me **girishk007.gk@gmail.com**
+- 📫 How to reach me **itsgirish.work@gmail.com**
 
 - ⚡ Fun fact **I once hacked my neighbour's wifi (Kali linux)**
 
